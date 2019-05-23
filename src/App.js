@@ -5,7 +5,10 @@ function App() {
   return (
     <>
 
-    <ButtonSwicher/>
+    <ButtonSwicher
+    firstChoice = 'Choice 1'
+    secondChoice = 'Choice 2'
+    />
 
     </>
   );
